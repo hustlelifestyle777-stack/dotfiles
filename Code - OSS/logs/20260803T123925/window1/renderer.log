@@ -1,8 +1,0 @@
-2026-08-03 12:39:27.951 [info] Started local extension host with pid 13357.
-2026-08-03 12:39:29.090 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
-2026-08-03 12:39:29.091 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
-2026-08-03 12:39:29.092 [error] Extension 'ms-python.vscode-python-envs CANNOT USE these API proposals 'terminalShellEnv, terminalDataWriteEvent, taskExecutionTerminal'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
-2026-08-03 12:39:29.113 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
-2026-08-03 12:39:29.933 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
-2026-08-03 12:39:31.203 [info] [perf] Render performance baseline is 53ms
-2026-08-03 12:39:34.935 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
