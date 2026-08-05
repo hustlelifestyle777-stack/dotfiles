@@ -1,0 +1,84 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "f65ea6debb07a65b6ca8c7c6ff0942e04c49edc7ed8653276d8fef170b7a92e9",
+    "telemetry.devDeviceId": "387e10a3-9ed1-45d8-8baa-0d53742fa466",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1785915041581"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/don/Projects/TRD-KAIZEN": "__default__profile__",
+            "file:///home/don/.config/noctalia": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1785915041581": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#272822",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#272822",
+            "editorBackground": "#272822",
+            "titleBarBackground": "#1e1f1c",
+            "activityBarBackground": "#272822",
+            "sideBarBackground": "#1e1f1c",
+            "panelBackground": "#272822",
+            "editorGroupBorder": "#34352f",
+            "agentsPanelBackground": "#1e1f1c",
+            "agentsPanelBorder": "#414339",
+            "statusBarBackground": "#414339",
+            "statusBarNoFolderBackground": "#414339"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false,
+            "modernUI": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 236,
+            "auxiliaryBarWidth": 236,
+            "workspaces": {
+                "f0e499142657454bcbbadbe0baa2de97": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "5b71c2e4236fd76a4ee1ba55e4a45f87": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/don/.config/Code - OSS/Backups/1785915041581",
+            "uiState": {
+                "mode": 1,
+                "x": 16,
+                "y": 10,
+                "width": 948,
+                "height": 1026
+            }
+        },
+        "openedWindows": []
+    }
+}
